@@ -1,0 +1,25 @@
+$text-color: #fff;
+$border-color: #000000;
+.input {
+    width: 400px;
+    height: 40px;
+    border-bottom: 2px solid $border-color;
+    background-color: unset;
+    color: $text-color;
+    font-size: 20px;
+    position: relative;
+    button {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: 0px 8px;
+    }
+    input {
+        padding-left: 20px;
+        width: 80%;
+        &::placeholder {
+            color: $text-color;
+            font-size: 18px;
+        }
+    }
+}

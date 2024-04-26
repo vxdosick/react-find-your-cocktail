@@ -1,0 +1,16 @@
+.generator {
+    .generator__up {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        h2 {
+            font-size: 40px;
+            font-weight: 700;
+        }
+        .generator__generate {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+    }
+}

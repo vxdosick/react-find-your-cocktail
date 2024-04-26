@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Cuba Libre",
+      "img": "/img/all-cocktails/cocktail1.png",
+      "ingredients": "-rum-cola-lime"
+    },
+    {
+      "name": "Wiskey Sour",
+      "img": "/img/all-cocktails/cocktail2.png",
+      "ingredients": "-wiskey-protein-sour"
+    },
+    {
+      "name": "Wodka Sour",
+      "img": "/img/all-cocktails/cocktail3.png",
+      "ingredients": "-wodka-protein-sour"
+    },
+    {
+      "name": "Gin Tonik",
+      "img": "/img/all-cocktails/cocktail4.png",
+      "ingredients": "-gin-sprite"
+    },
+    {
+      "name": "Mojito",
+      "img": "/img/all-cocktails/cocktail5.png",
+      "ingredients": "-gin-sprite-lime"
+    },
+    {
+      "name": "Star",
+      "img": "/img/all-cocktails/cocktail1.png",
+      "ingredients": "-rum-milk-pineaple juise"
+    },
+    {
+      "name": "Wiskey Kola",
+      "img": "/img/all-cocktails/cocktail2.png",
+      "ingredients": "-wiskey-coca cola"
+    },
+    {
+      "name": "Aperol Spritz",
+      "img": "/img/all-cocktails/cocktail3.png",
+      "ingredients": "-aperol-orange-water"
+    },
+    {
+      "name": " Red Marry",
+      "img": "/img/all-cocktails/cocktail4.png",
+      "ingredients": "-tomato-sprite"
+    },
+    {
+      "name": "Long Island",
+      "img": "/img/all-cocktails/cocktail5.png",
+      "ingredients": "-wodka-rum-cola"
+    }
+  ]
